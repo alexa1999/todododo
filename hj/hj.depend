@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1496347680 source:d:\ji\hj\src\birthay.cpp
+	"Birthay.h"
+
+1496347680 d:\ji\hj\include\birthay.h
+	<iostream>
+
+1496349193 source:d:\ji\hj\main.cpp
+	<iostream>
+	"Birthay.h"
+
