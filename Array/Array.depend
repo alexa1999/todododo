@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1496422595 source:d:\array\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	"Nave.h"
+
+1496422858 d:\array\include\nave.h
+
+1496423105 source:d:\array\src\nave.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	"Nave.h"
+
