@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1496346837 source:d:\ji\datos\src\birthay.cpp
+	"Birthay.h"
+
+1496346844 d:\ji\datos\include\birthay.h
+	<iostream>
+
