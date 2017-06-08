@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1495215832 source:d:\ji\herencia\main.cpp
+	<iostream>
+
+1495214349 source:d:\ji\herencia\src\car.cpp
+	"car.h"
+
+1495214349 d:\ji\herencia\include\car.h
+
+1495214312 source:d:\ji\herencia\src\vehicle.cpp
+	"vehicle.h"
+
+1495214312 d:\ji\herencia\include\vehicle.h
+
