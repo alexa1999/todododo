@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1494534897 source:d:\anel\practicac\main.cpp
+	<iostream>
+	<math.h>
+	<stdio.h>
+
