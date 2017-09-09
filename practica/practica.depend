@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1504978226 source:d:\practica\main.cpp
+	<iostream>
+	"operaciones.h"
+
+1504971932 d:\practica\mensaje.h
+
+1504971863 source:d:\practica\mensaje.cpp
+	<iostream>
+	"mensaje.h"
+
+1504978784 d:\practica\operaciones.h
+
+1504978167 source:d:\practica\operaciones.cpp
+	<iostream>
+	"mensaje.h"
+
