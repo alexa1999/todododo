@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1528819480 source:d:\ejemplo\main.cpp
+	<iostream>
+	<Container.h>
+
+1528819469 d:\ejemplo\include\point.h
+
+1528820219 d:\ejemplo\include\container.h
+	<iostream>
+	<cctype>
+
+1528820189 source:d:\ejemplo\src\container.cpp
+	"Container.h"
+	<iostream>
+	<cctype>
+
+1528819529 source:d:\ejemplo\src\point.cpp
+	"Point.h"
+
