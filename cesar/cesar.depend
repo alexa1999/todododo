@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1535230250 source:d:\cesar\main.cpp
+	<iostream>
+	<cesar.h>
+
+1535227597 d:\cesar\include\cesar.h
+	<iostream>
+	<string>
+
+1535231556 source:d:\cesar\src\cesar.cpp
+	"cesar.h"
+	<string>
+
