@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1536358010 source:e:\biologia\enigmaconclave\main.cpp
+	<iostream>
+	"enigma.h"
+
+1536801550 e:\biologia\enigmaconclave\include\enigma.h
+	"string"
+
+1536887875 source:e:\biologia\enigmaconclave\src\enigma.cpp
+	<iostream>
+	"enigma.h"
+
+1537042512 source:d:\enigmaconclave\main.cpp
+	<iostream>
+	"enigma.h"
+	<stdlib.h>
+
+1537042544 d:\enigmaconclave\include\enigma.h
+	"string"
+
+1537043488 source:d:\enigmaconclave\src\enigma.cpp
+	<iostream>
+	"enigma.h"
+
