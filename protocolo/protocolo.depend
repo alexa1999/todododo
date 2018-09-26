@@ -1,0 +1,110 @@
+# depslib dependency file v1.0
+1537636740 source:e:\biologia\protocolo\main.cpp
+	<iostream>
+	"string"
+	<fstream>
+	<sstream>
+	<time.h>
+	<stdlib.h>
+	"protocolo.h"
+
+1537636740 source:e:\biologia\protocolo\src\protocolo.cpp
+	<iostream>
+	<string>
+	"protocolo.h"
+
+1537636614 e:\biologia\protocolo\include\protocolo.h
+	"enigma.h"
+	"Cesar.h"
+	"Affin.h"
+	<sstream>
+	<fstream>
+	<vector>
+	<string>
+	<stdlib.h>
+	<time.h>
+
+1537562551 e:\biologia\protocolo\include\enigma.h
+	"string"
+	<vector>
+	<sstream>
+
+1537618019 e:\biologia\protocolo\include\cesar.h
+	<string>
+
+1537635383 e:\biologia\protocolo\include\affin.h
+	<vector>
+	<string>
+
+1537633915 source:e:\biologia\protocolo\src\affin.cpp
+	<iostream>
+	<string>
+	"Affin.h"
+	<vector>
+	<stdlib.h>
+
+1537636804 source:e:\biologia\protocolo\src\cesar.cpp
+	"Cesar.h"
+	<iostream>
+	<stdlib.h>
+	"string"
+
+1537634569 source:e:\biologia\protocolo\src\enigma.cpp
+	"enigma.h"
+
+1537629718 source:d:\protocolo\main.cpp
+	<iostream>
+	"string"
+	<fstream>
+	<sstream>
+	<time.h>
+	<stdlib.h>
+	"protocolo.h"
+
+1537629718 d:\protocolo\include\protocolo.h
+	"enigma.h"
+	"Cesar.h"
+	"Affin.h"
+	<sstream>
+	<fstream>
+	<vector>
+	<string>
+	<stdlib.h>
+	<time.h>
+
+1537640417 d:\protocolo\include\enigma.h
+	<iostream>
+	"string"
+	<vector>
+	<sstream>
+
+1537629718 d:\protocolo\include\cesar.h
+	<string>
+
+1537640557 d:\protocolo\include\affin.h
+	<iostream>
+	<vector>
+	<string>
+
+1537629724 source:d:\protocolo\src\affin.cpp
+	<iostream>
+	<string>
+	"Affin.h"
+	<vector>
+	<stdlib.h>
+
+1537640374 source:d:\protocolo\src\cesar.cpp
+	<iostream>
+	"Cesar.h"
+	<stdlib.h>
+	"string"
+
+1537640256 source:d:\protocolo\src\enigma.cpp
+	<iostream>
+	"enigma.h"
+
+1537641046 source:d:\protocolo\src\protocolo.cpp
+	<iostream>
+	"string"
+	"protocolo.h"
+

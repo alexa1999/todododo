@@ -1,0 +1,3 @@
+clave Cesar: 2
+clave Affin(a): 1
+clave Affin(b): 79
