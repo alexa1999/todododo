@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1535828624 source:d:\enigma\main.cpp
+	<iostream>
+	"enigma.h"
+
+1535832514 d:\enigma\include\enigma.h
+	"string"
+
+1535831009 source:d:\enigma\src\enigma.cpp
+	<iostream>
+	"enigma.h"
+
